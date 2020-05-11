@@ -1,0 +1,19 @@
+.rc-tree-list{
+  margin: 20px;
+}
+
+.rc-tree .rc-tree-treenode .rc-tree-node-content-wrapper {
+  height: auto;
+  margin: 2px;
+}
+
+.rc-tree-title {
+  font-size: 14px;
+}
+
+.rc-tree-node-selected {
+  background-color: #246137;
+  color: white;
+  border: none;
+  
+}
